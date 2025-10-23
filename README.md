@@ -1,2 +1,4 @@
 # neokotikTest1
-asdf
+asdfg
+
+This is test description to show how git works
